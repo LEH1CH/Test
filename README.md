@@ -1,3 +1,6 @@
+![Screnshot 1](https://github.com/LEH1CH/Test/blob/main/public/scrin1.png)
+![Screnshot 2](https://github.com/LEH1CH/Test/blob/main/public/scrin2.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
